@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script EnableCertPaddingCheck (32-bit & 64-bit).
+    This PowerShell script Configure the policy value for Computer Configuration >> Administrative Templates >> MS Security Guide >> "Configure SMBv1 Server" to "Disabled".
 
 .NOTES
     Author          : Yannick Wona
