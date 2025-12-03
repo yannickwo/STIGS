@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script EnableCertPaddingCheck (32-bit & 64-bit).
+    This PowerShell script Upgrade to Microsoft Teams for Desktop version 25122.1415.3698.6812.
 
 .NOTES
     Author          : Yannick Wona
