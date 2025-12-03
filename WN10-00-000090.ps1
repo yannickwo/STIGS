@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script EnableCertPaddingCheck (32-bit & 64-bit).
+    This PowerShell script Configure all passwords to expire.
 
 .NOTES
     Author          : Yannick Wona
