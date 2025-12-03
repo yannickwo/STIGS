@@ -10,7 +10,7 @@
     Last Modified   : 2024-12-03
     Version         : 1.0
     CVEs            : CVE-2025-53783
-    Plugin IDs      : N/A
+    Plugin IDs      : ID 250276
     STIG-ID         : N/A
 
 .TESTED ON
